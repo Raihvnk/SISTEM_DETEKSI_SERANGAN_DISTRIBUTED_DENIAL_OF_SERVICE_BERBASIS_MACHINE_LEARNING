@@ -10,3 +10,5 @@ Pengujian menggunakan:
 Streamlit: Antarmuka interaktif untuk menguji model deteksi secara cepat.
 Ryu + Mininet: Simulasi SDN dengan Mininet untuk menguji model deteksi secara real-time.
 
+video Pengujian 1 menggunakan GUI Streamlit (lokal) : https://youtu.be/glfzqsn_Zhs
+video pengujian 2 menggunakan VM ubuntu dan aplikasi RYU Controller dan Mininet (simulasi Real-Time) : https://youtu.be/8tqxjv_XoXI
